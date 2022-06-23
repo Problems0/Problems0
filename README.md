@@ -19,5 +19,5 @@
 <div align="center">
       <img width=130 src=https://komarev.com/ghpvc/?username=Problems0>
         <img width=103 src=https://img.shields.io/github/followers/Problems0.svg?style=social&label=Follow&maxAge=2592000>
-     <a href="t.me/NobodyDev"><img alt="Version" src="https://img.shields.io/static/v1?label=TELEGRAM&message=@NobodyDev&style=for-the-badge&color=green&logo=telegram"/></a>
+     <a href="https://t.me/NobodyDev"><img alt="Version" src="https://img.shields.io/static/v1?label=TELEGRAM&message=@NobodyDev&style=for-the-badge&color=green&logo=telegram"/></a>
 </div>
